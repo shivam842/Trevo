@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Trevo"
+rootProject.name = "WanderView"
 include(":app")

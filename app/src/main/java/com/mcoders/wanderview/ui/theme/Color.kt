@@ -1,4 +1,4 @@
-package com.mcoders.trevo.ui.theme
+package com.mcoders.wanderview.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

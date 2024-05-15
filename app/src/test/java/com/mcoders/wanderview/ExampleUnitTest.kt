@@ -1,4 +1,4 @@
-package com.mcoders.trevo
+package com.mcoders.wanderview
 
 import org.junit.Test
 

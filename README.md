@@ -1,6 +1,6 @@
-# Trevo: Virtual Tours of World Famous Locations
+# WanderView: Virtual Tours of World Famous Locations
 
-Trevo is an Android application that provides virtual tours of world-famous locations right at your fingertips. 🏖️🚀🗺️ Whether you're dreaming of sandy beaches, exploring the vastness of space, or navigating historic landmarks, Trevo brings these experiences to your mobile device with seamless ease and immersive detail.
+WanderView is an Android application that provides virtual tours of world-famous locations right at your fingertips. 🏖️🚀🗺️ Whether you're dreaming of sandy beaches, exploring the vastness of space, or navigating historic landmarks, WanderView brings these experiences to your mobile device with seamless ease and immersive detail.
 
 ## Features
 
@@ -12,7 +12,7 @@ Trevo is an Android application that provides virtual tours of world-famous loca
 
 ## Technology Stack
 
-Trevo is built with modern Android development technologies to ensure a robust and maintainable codebase:
+WanderView is built with modern Android development technologies to ensure a robust and maintainable codebase:
 
 - **Kotlin**: A modern, expressive language for Android development.
 - **Jetpack Compose**: Android’s modern toolkit for building native UI, enabling rapid development with less code.
@@ -32,11 +32,11 @@ The project is organized to maintain a clean architecture, making the codebase e
 
 ## Getting Started
 
-To get started with Trevo, follow these steps:
+To get started with WanderView, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Trevo.git
+   git clone https://github.com/shivam842/WanderView.git
    ```
 2. **Open the project in Android Studio**.
 3. **Build and run the project** on your Android device or emulator.
@@ -47,12 +47,12 @@ We welcome contributions from the community! If you have suggestions or improvem
 
 ## License
 
-Trevo is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+WanderView is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ## Contact
 
-For any inquiries or support, please reach out to us at support@trevoapp.com.
+For any inquiries or support, please reach out to us at support@wanderviewapp.com.
 
 ---
 
-Experience the world like never before with Trevo – your personal gateway to virtual tours of the most iconic places on the planet! 🌍✨
+Experience the world like never before with WanderView – your personal gateway to virtual tours of the most iconic places on the planet! 🌍✨
