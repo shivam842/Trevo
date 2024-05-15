@@ -1,5 +1,6 @@
-package com.mcoders.wanderview
+package com.mcoders.wanderview.ui
 
+import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -39,6 +40,9 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 
 @Preview(showBackground = true)
+@Preview(showBackground = true, device = "id:pixel_7a", showSystemUi = true,
+    uiMode = Configuration.UI_MODE_NIGHT_NO or Configuration.UI_MODE_TYPE_NORMAL
+)
 @Composable
 fun GreetingPreview() {
     WanderViewTheme {
