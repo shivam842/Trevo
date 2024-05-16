@@ -61,6 +61,9 @@ dependencies {
     implementation(libs.material3)
     implementation(libs.navigation.compose)
 
+    // Splash API
+    implementation (libs.androidx.core.splashscreen)
+    
     implementation(libs.androidx.ui.text.google.fonts)
 
     implementation(libs.hilt.android)
