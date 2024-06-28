@@ -4,6 +4,7 @@ plugins {
     alias(libs.plugins.hiltAndroid)
     alias(libs.plugins.ksp)
     alias(libs.plugins.kotlin.serialization)
+    id("com.google.gms.google-services")
     //kotlin("plugin.serialization")
 }
 
@@ -65,31 +66,45 @@ dependencies {
     implementation(libs.kotlin.serialization.json)
 
     // Splash API
-    implementation (libs.androidx.core.splashscreen)
-    
+    implementation(libs.androidx.core.splashscreen)
+
+    // Google Fonts
     implementation(libs.androidx.ui.text.google.fonts)
 
+    // Hilt
     implementation(libs.hilt.android)
     implementation(libs.hilt.navigation.compose)
     ksp(libs.hilt.android.compiler)
 
+    // Room
     implementation(libs.bundles.room)
     ksp(libs.room.compiler)
 
+    // Retrofit
     implementation(libs.bundles.retrofit)
     implementation(libs.okhttp.interceptor.logging)
-    implementation (libs.converter.gson)
+    implementation(libs.converter.gson)
 
+    // Moshi
     implementation(libs.moshi)
     ksp(libs.moshi.kotlin.codegen)
 
+    // Coil - Image Processing
     implementation(libs.coil) {
         because("An image loading library for Android backed by Kotlin Coroutines")
     }
 
+    // Database caching
     implementation(libs.flower) {
         because("Flower simplifies networking and database caching on Android/Multiplatform")
     }
+
+    // Webkit
+    implementation(libs.androidx.webkit)
+
+    // Firebase BOM
+    implementation(platform(libs.firebase.bom))
+    implementation(libs.firebase.analytics)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
