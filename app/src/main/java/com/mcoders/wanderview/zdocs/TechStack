@@ -1,0 +1,17 @@
+
+
+Backend:
+
+Cloud storage for video content (AWS S3, Google Cloud Storage)
+Database for user data and preferences (Firebase, MongoDB)
+Content delivery network (CDN) for fast video streaming
+
+
+Frontend:
+
+Android TV SDK
+UI/UX design tools (Adobe XD, Sketch, etc.)
+Kotlin or Java for app development
+
+
+
