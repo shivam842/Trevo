@@ -1,0 +1,513 @@
+{
+  "destinations": [
+    {
+      "name": "Great Wall of China",
+      "location": {
+        "latitude": 40.4319,
+        "longitude": 116.5704,
+        "address": "Huairou District, China"
+      },
+      "details": {
+        "description": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along the northern borders of China.",
+        "length": "21,196 kilometers",
+        "built": "7th century BC",
+        "visitor_count_per_year": "10 million",
+        "official_website": "http://www.greatwall-of-china.com/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/great_wall_1_4k.jpg",
+          "description": "A panoramic 4K view of the Great Wall of China.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/great_wall_2_4k.jpg",
+          "description": "4K image of the Great Wall snaking through the mountains.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Alice Zhang",
+          "rating": 5,
+          "comment": "A historical marvel with stunning views.",
+          "date": "2024-05-10"
+        },
+        {
+          "user": "Mark Lee",
+          "rating": 4,
+          "comment": "Incredible structure, but quite crowded.",
+          "date": "2024-04-22"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Mutianyu Great Wall",
+          "distance_km": 3.0,
+          "description": "A well-preserved section of the Great Wall offering beautiful scenery."
+        },
+        {
+          "name": "Forbidden City",
+          "distance_km": 70.0,
+          "description": "A large palace complex in central Beijing."
+        }
+      ],
+      "opening_hours": {
+        "monday": "07:30 AM - 06:00 PM",
+        "tuesday": "07:30 AM - 06:00 PM",
+        "wednesday": "07:30 AM - 06:00 PM",
+        "thursday": "07:30 AM - 06:00 PM",
+        "friday": "07:30 AM - 06:00 PM",
+        "saturday": "07:30 AM - 06:00 PM",
+        "sunday": "07:30 AM - 06:00 PM"
+      }
+    },
+    {
+      "name": "Petra",
+      "location": {
+        "latitude": 30.3285,
+        "longitude": 35.4444,
+        "address": "Ma'an Governorate, Jordan"
+      },
+      "details": {
+        "description": "Petra is a famous archaeological site in Jordan's southwestern desert. Dating to around 300 B.C., it was the capital of the Nabataean Kingdom.",
+        "established": "5th century BC",
+        "visitor_count_per_year": "1 million",
+        "official_website": "http://www.visitpetra.jo/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/petra_1_4k.jpg",
+          "description": "A 4K view of the Treasury in Petra.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/petra_2_4k.jpg",
+          "description": "The Monastery in Petra captured in 4K resolution.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Emma Brown",
+          "rating": 5,
+          "comment": "A breathtaking historical site with stunning architecture.",
+          "date": "2024-03-15"
+        },
+        {
+          "user": "Liam Smith",
+          "rating": 5,
+          "comment": "Absolutely worth the visit, an unforgettable experience.",
+          "date": "2024-02-25"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Little Petra",
+          "distance_km": 8.0,
+          "description": "A smaller archaeological site near Petra, also worth visiting."
+        },
+        {
+          "name": "Wadi Rum",
+          "distance_km": 106.0,
+          "description": "A protected desert wilderness with dramatic landscapes."
+        }
+      ],
+      "opening_hours": {
+        "monday": "06:00 AM - 06:00 PM",
+        "tuesday": "06:00 AM - 06:00 PM",
+        "wednesday": "06:00 AM - 06:00 PM",
+        "thursday": "06:00 AM - 06:00 PM",
+        "friday": "06:00 AM - 06:00 PM",
+        "saturday": "06:00 AM - 06:00 PM",
+        "sunday": "06:00 AM - 06:00 PM"
+      }
+    },
+    {
+      "name": "Christ the Redeemer",
+      "location": {
+        "latitude": -22.9519,
+        "longitude": -43.2105,
+        "address": "Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brazil"
+      },
+      "details": {
+        "description": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil. It was created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa.",
+        "height": "30 meters",
+        "built": "1922-1931",
+        "visitor_count_per_year": "2 million",
+        "official_website": "http://www.corcovado.com.br/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/christ_redeemer_1_4k.jpg",
+          "description": "A 4K image of Christ the Redeemer overlooking Rio de Janeiro.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/christ_redeemer_2_4k.jpg",
+          "description": "Close-up 4K shot of Christ the Redeemer.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Lucas Ferreira",
+          "rating": 5,
+          "comment": "A must-see in Rio! The views are spectacular.",
+          "date": "2024-04-10"
+        },
+        {
+          "user": "Sofia Gonzalez",
+          "rating": 4,
+          "comment": "Incredible statue, but it can get very crowded.",
+          "date": "2024-03-30"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Sugarloaf Mountain",
+          "distance_km": 6.4,
+          "description": "A peak situated at the mouth of Guanabara Bay."
+        },
+        {
+          "name": "Copacabana Beach",
+          "distance_km": 7.5,
+          "description": "One of the most famous beaches in the world."
+        }
+      ],
+      "opening_hours": {
+        "monday": "08:00 AM - 07:00 PM",
+        "tuesday": "08:00 AM - 07:00 PM",
+        "wednesday": "08:00 AM - 07:00 PM",
+        "thursday": "08:00 AM - 07:00 PM",
+        "friday": "08:00 AM - 07:00 PM",
+        "saturday": "08:00 AM - 07:00 PM",
+        "sunday": "08:00 AM - 07:00 PM"
+      }
+    },
+    {
+      "name": "Machu Picchu",
+      "location": {
+        "latitude": -13.1631,
+        "longitude": -72.5450,
+        "address": "Machu Picchu, Peru"
+      },
+      "details": {
+        "description": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge 2,430 meters above sea level.",
+        "established": "15th century",
+        "visitor_count_per_year": "1.5 million",
+        "official_website": "http://www.machupicchu.gob.pe/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/machu_picchu_1_4k.jpg",
+          "description": "A 4K panoramic view of Machu Picchu.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/machu_picchu_2_4k.jpg",
+          "description": "The ancient ruins of Machu Picchu in 4K.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Carlos Mendoza",
+          "rating": 5,
+          "comment": "A breathtaking site with incredible history.",
+          "date": "2024-03-20"
+        },
+        {
+          "user": "Ana Rodriguez",
+          "rating": 5,
+          "comment": "An unforgettable experience. The scenery is unmatched.",
+          "date": "2024-02-15"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Huayna Picchu",
+          "distance_km": 1.0,
+          "description": "A mountain in Peru that rises over Machu Picchu."
+        },
+        {
+          "name": "Cusco",
+          "distance_km": 75.0,
+          "description": "A city in the Peruvian Andes and the former capital of the Inca Empire."
+        }
+      ],
+      "opening_hours": {
+        "monday": "06:00 AM - 05:00 PM",
+        "tuesday": "06:00 AM - 05:00 PM",
+        "wednesday": "06:00 AM - 05:00 PM",
+        "thursday": "06:00 AM - 05:00 PM",
+        "friday": "06:00 AM - 05:00 PM",
+        "saturday": "06:00 AM - 05:00 PM",
+        "sunday": "06:00 AM - 05:00 PM"
+      }
+    },
+    {
+      "name": "Chichen Itza",
+      "location": {
+        "latitude": 20.6843,
+        "longitude": -88.5678,
+        "address": "Yucatan, Mexico"
+      },
+      "details": {
+        "description": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period.",
+        "established": "600 AD",
+        "visitor_count_per_year": "2.6 million",
+        "official_website": "http://www.chichenitza.com/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/chichen_itza_1_4k.jpg",
+          "description": "A 4K view of the Pyramid of Kukulcan at Chichen Itza.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/chichen_itza_2_4k.jpg",
+          "description": "4K image of the Temple of the Warriors in Chichen Itza.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Miguel Martinez",
+          "rating": 5,
+          "comment": "An amazing archaeological site with rich history.",
+          "date": "2024-05-05"
+        },
+        {
+          "user": "Isabella Torres",
+          "rating": 5,
+          "comment": "Absolutely stunning, a must-visit when in Mexico.",
+          "date": "2024-04-18"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Cenote Ik Kil",
+          "distance_km": 3.0,
+          "description": "A beautiful natural sinkhole near Chichen Itza."
+        },
+        {
+          "name": "Valladolid",
+          "distance_km": 40.0,
+          "description": "A colonial city with charming architecture and history."
+        }
+      ],
+      "opening_hours": {
+        "monday": "08:00 AM - 05:00 PM",
+        "tuesday": "08:00 AM - 05:00 PM",
+        "wednesday": "08:00 AM - 05:00 PM",
+        "thursday": "08:00 AM - 05:00 PM",
+        "friday": "08:00 AM - 05:00 PM",
+        "saturday": "08:00 AM - 05:00 PM",
+        "sunday": "08:00 AM - 05:00 PM"
+      }
+    },
+    {
+      "name": "Roman Colosseum",
+      "location": {
+        "latitude": 41.8902,
+        "longitude": 12.4922,
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy"
+      },
+      "details": {
+        "description": "The Colosseum is an ancient amphitheater in the center of Rome, Italy, and one of the greatest works of Roman architecture and engineering.",
+        "height": "48 meters",
+        "built": "70-80 AD",
+        "visitor_count_per_year": "7.6 million",
+        "official_website": "http://www.the-colosseum.net/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/colosseum_1_4k.jpg",
+          "description": "A 4K view of the Roman Colosseum.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/colosseum_2_4k.jpg",
+          "description": "Interior 4K shot of the Colosseum's architecture.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Giovanni Rossi",
+          "rating": 5,
+          "comment": "An iconic symbol of ancient Rome, a must-visit!",
+          "date": "2024-04-25"
+        },
+        {
+          "user": "Maria Bianchi",
+          "rating": 4,
+          "comment": "Stunning monument, but very crowded.",
+          "date": "2024-03-30"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Roman Forum",
+          "distance_km": 0.5,
+          "description": "Ancient ruins in the heart of Rome, next to the Colosseum."
+        },
+        {
+          "name": "Palatine Hill",
+          "distance_km": 0.4,
+          "description": "One of the most ancient parts of the city."
+        }
+      ],
+      "opening_hours": {
+        "monday": "08:30 AM - 07:00 PM",
+        "tuesday": "08:30 AM - 07:00 PM",
+        "wednesday": "08:30 AM - 07:00 PM",
+        "thursday": "08:30 AM - 07:00 PM",
+        "friday": "08:30 AM - 07:00 PM",
+        "saturday": "08:30 AM - 07:00 PM",
+        "sunday": "08:30 AM - 07:00 PM"
+      }
+    },
+    {
+      "name": "Taj Mahal",
+      "location": {
+        "latitude": 27.1751,
+        "longitude": 78.0421,
+        "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India"
+      },
+      "details": {
+        "description": "The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra.",
+        "height": "73 meters",
+        "built": "1632-1653",
+        "visitor_count_per_year": "8 million",
+        "official_website": "http://www.tajmahal.gov.in/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/taj_mahal_1_4k.jpg",
+          "description": "A 4K view of the Taj Mahal at sunrise.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/taj_mahal_2_4k.jpg",
+          "description": "The Taj Mahal reflected in the water, captured in 4K.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Ravi Kumar",
+          "rating": 5,
+          "comment": "A stunning architectural masterpiece.",
+          "date": "2024-05-12"
+        },
+        {
+          "user": "Priya Singh",
+          "rating": 5,
+          "comment": "Absolutely beautiful, a must-see in India.",
+          "date": "2024-04-05"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Agra Fort",
+          "distance_km": 2.5,
+          "description": "A historical fort in the city of Agra."
+        },
+        {
+          "name": "Mehtab Bagh",
+          "distance_km": 1.5,
+          "description": "A charbagh complex in Agra."
+        }
+      ],
+      "opening_hours": {
+        "monday": "06:00 AM - 06:30 PM",
+        "tuesday": "06:00 AM - 06:30 PM",
+        "wednesday": "06:00 AM - 06:30 PM",
+        "thursday": "06:00 AM - 06:30 PM",
+        "friday": "06:00 AM - 06:30 PM",
+        "saturday": "06:00 AM - 06:30 PM",
+        "sunday": "06:00 AM - 06:30 PM"
+      }
+    },
+    {
+      "name": "Christ the Redeemer",
+      "location": {
+        "latitude": -22.9519,
+        "longitude": -43.2105,
+        "address": "Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brazil"
+      },
+      "details": {
+        "description": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil. It was created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa.",
+        "height": "30 meters",
+        "built": "1922-1931",
+        "visitor_count_per_year": "2 million",
+        "official_website": "http://www.corcovado.com.br/"
+      },
+      "photos": [
+        {
+          "url": "https://example.com/photos/christ_redeemer_1_4k.jpg",
+          "description": "A 4K image of Christ the Redeemer overlooking Rio de Janeiro.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        },
+        {
+          "url": "https://example.com/photos/christ_redeemer_2_4k.jpg",
+          "description": "Close-up 4K shot of Christ the Redeemer.",
+          "credit": "Photographer Name",
+          "resolution": "3840x2160"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Lucas Ferreira",
+          "rating": 5,
+          "comment": "A must-see in Rio! The views are spectacular.",
+          "date": "2024-04-10"
+        },
+        {
+          "user": "Sofia Gonzalez",
+          "rating": 4,
+          "comment": "Incredible statue, but it can get very crowded.",
+          "date": "2024-03-30"
+        }
+      ],
+      "nearby_attractions": [
+        {
+          "name": "Sugarloaf Mountain",
+          "distance_km": 6.4,
+          "description": "A peak situated at the mouth of Guanabara Bay."
+        },
+        {
+          "name": "Copacabana Beach",
+          "distance_km": 7.5,
+          "description": "One of the most famous beaches in the world."
+        }
+      ],
+      "opening_hours": {
+        "monday": "08:00 AM - 07:00 PM",
+        "tuesday": "08:00 AM - 07:00 PM",
+        "wednesday": "08:00 AM - 07:00 PM",
+        "thursday": "08:00 AM - 07:00 PM",
+        "friday": "08:00 AM - 07:00 PM",
+        "saturday": "08:00 AM - 07:00 PM",
+        "sunday": "08:00 AM - 07:00 PM"
+      }
+    }
+  ]
+}

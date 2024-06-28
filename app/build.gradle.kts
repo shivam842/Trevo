@@ -3,6 +3,8 @@ plugins {
     alias(libs.plugins.kotlinAndroid)
     alias(libs.plugins.hiltAndroid)
     alias(libs.plugins.ksp)
+    alias(libs.plugins.kotlin.serialization)
+    //kotlin("plugin.serialization")
 }
 
 android {
@@ -60,6 +62,7 @@ dependencies {
     implementation(libs.bundles.compose.ui.impl)
     implementation(libs.material3)
     implementation(libs.navigation.compose)
+    implementation(libs.kotlin.serialization.json)
 
     // Splash API
     implementation (libs.androidx.core.splashscreen)
@@ -75,6 +78,7 @@ dependencies {
 
     implementation(libs.bundles.retrofit)
     implementation(libs.okhttp.interceptor.logging)
+    implementation (libs.converter.gson)
 
     implementation(libs.moshi)
     ksp(libs.moshi.kotlin.codegen)

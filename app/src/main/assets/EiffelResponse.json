@@ -1,0 +1,79 @@
+{
+  "destination": {
+    "name": "Eiffel Tower",
+    "location": {
+      "latitude": 48.8584,
+      "longitude": 2.2945,
+      "address": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France"
+    },
+    "details": {
+      "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+      "height": "324 meters",
+      "built": "1887-1889",
+      "architect": "Gustave Eiffel",
+      "visitor_count_per_year": "7 million",
+      "official_website": "https://www.toureiffel.paris/en"
+    },
+    "photos": [
+      {
+        "url": "https://example.com/photos/eiffel_tower_1_4k.jpg",
+        "description": "A stunning 4K view of the Eiffel Tower during the day.",
+        "credit": "Photographer Name",
+        "resolution": "3840x2160"
+      },
+      {
+        "url": "https://example.com/photos/eiffel_tower_2_4k.jpg",
+        "description": "The Eiffel Tower illuminated at night in 4K resolution.",
+        "credit": "Photographer Name",
+        "resolution": "3840x2160"
+      },
+      {
+        "url": "https://example.com/photos/eiffel_tower_3_4k.jpg",
+        "description": "Aerial 4K shot of the Eiffel Tower and the surrounding area.",
+        "credit": "Photographer Name",
+        "resolution": "3840x2160"
+      },
+      {
+        "url": "https://example.com/photos/eiffel_tower_4_4k.jpg",
+        "description": "Close-up 4K image showing the intricate details of the Eiffel Tower's ironwork.",
+        "credit": "Photographer Name",
+        "resolution": "3840x2160"
+      }
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "rating": 5,
+        "comment": "An amazing experience! The view from the top is breathtaking.",
+        "date": "2024-05-01"
+      },
+      {
+        "user": "Jane Smith",
+        "rating": 4,
+        "comment": "Beautiful landmark, but the lines were quite long.",
+        "date": "2024-04-15"
+      }
+    ],
+    "nearby_attractions": [
+      {
+        "name": "Louvre Museum",
+        "distance_km": 3.2,
+        "description": "The world's largest art museum and a historic monument in Paris, France."
+      },
+      {
+        "name": "Notre-Dame Cathedral",
+        "distance_km": 4.5,
+        "description": "A medieval Catholic cathedral with stunning Gothic architecture."
+      }
+    ],
+    "opening_hours": {
+      "monday": "09:30 AM - 11:45 PM",
+      "tuesday": "09:30 AM - 11:45 PM",
+      "wednesday": "09:30 AM - 11:45 PM",
+      "thursday": "09:30 AM - 11:45 PM",
+      "friday": "09:30 AM - 11:45 PM",
+      "saturday": "09:30 AM - 11:45 PM",
+      "sunday": "09:30 AM - 11:45 PM"
+    }
+  }
+}

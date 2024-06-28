@@ -1,5 +1,6 @@
 [versions]
 agp = "8.4.0"
+converter-gson = "2.11.0"
 core-splashscreen = "1.0.1"
 kotlin = "1.9.23"
 hilt = "2.50"
@@ -21,10 +22,12 @@ moshi = "1.14.0"
 coil = "2.6.0"
 flower = "3.1.0"
 ui-text-google-fonts = "1.6.7"
+serialization = "1.6.3"
 
 [libraries]
 androidx-core-splashscreen = { module = "androidx.core:core-splashscreen", version.ref = "core-splashscreen" }
 androidx-ui-text-google-fonts = { module = "androidx.compose.ui:ui-text-google-fonts", version.ref = "ui-text-google-fonts" }
+converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converter-gson" }
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
@@ -54,12 +57,14 @@ moshi = { group = "com.squareup.moshi", name = "moshi", version.ref = "moshi" }
 moshi-kotlin-codegen = { group = "com.squareup.moshi", name = "moshi-kotlin-codegen", version.ref = "moshi" }
 coil = { group = "io.coil-kt", name = "coil-compose", version.ref = "coil" }
 flower = { group = "io.github.hadiyarajesh.flower-retrofit", name = "flower-retrofit", version.ref = "flower" }
+kotlin-serialization-json = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "serialization" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
 kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 hiltAndroid = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
 ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 
 [bundles]
 lifecycle = ["lifecycle-runtime-ktx", "lifecycle-runtime-compose"]
